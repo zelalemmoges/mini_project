@@ -47,7 +47,8 @@ Confirmation dialog when attempting to delete a teacher.
 
 ![Delete Confirmation](![Delete Confirmation](https://your-image-url.com/delete-confirm.png))
 
-![Delete Confirmation](https://your-image-url.com/delete-confirm.png)
+![Delete Confirmation](https://github.com/zelalemmoges/mini_project/blob/main/assets/delete2.png)
+
 ---
 
 ## Database Setup
