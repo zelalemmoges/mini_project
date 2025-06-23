@@ -45,8 +45,9 @@ Update teacher details from a pre-filled form.
 ### Delete Confirmation
 Confirmation dialog when attempting to delete a teacher.
 
-![Delete Confirmation](https://your-image-url.com/delete-confirm.png)
+![Delete Confirmation](![Delete Confirmation](https://your-image-url.com/delete-confirm.png))
 
+![Delete Confirmation](https://your-image-url.com/delete-confirm.png)
 ---
 
 ## Database Setup
