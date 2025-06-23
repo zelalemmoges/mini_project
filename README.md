@@ -22,7 +22,7 @@ Shows the form where users can add a new teacher.
 
 ![Home Form](https://github.com/zelalemmoges/mini_project/blob/main/assets/form.png)
 
-<img width="1477" alt="Screenshot 2025-06-23 at 1 25 01 PM" src="https://github.com/user-attachments/assets/cac52601-b501-4b2f-8d52-0e4461a7e615" />
+
 
 
 ---
@@ -30,7 +30,8 @@ Shows the form where users can add a new teacher.
 ### Registered Teacher List
 Displays all existing teachers in a responsive Bootstrap table.
 
-![Teacher List](https://your-image-url.com/teacher-list.png)
+![Teacher List](https://github.com/zelalemmoges/mini_project/blob/main/assets/registerd.png)
+
 
 ---
 
