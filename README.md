@@ -38,7 +38,7 @@ Displays all existing teachers in a responsive Bootstrap table.
 ### Edit Teacher Record
 Update teacher details from a pre-filled form.
 
-![Edit Form](https://your-image-url.com/edit-form.png)
+![Edit Form](https://github.com/zelalemmoges/mini_project/blob/main/assets/edit.png)
 
 ---
 
