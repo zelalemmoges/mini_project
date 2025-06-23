@@ -20,8 +20,9 @@ This is a simple **PHP + MySQL** web application that allows users to create, re
 ### Home Page / Registration Form
 Shows the form where users can add a new teacher.
 
-![Home Form]([https://your-image-url.com/home-form.png](https://github.com/user-attachments/assets/bd0f0e86-88d9-43d9-a4e1-84e0d9239636))
+![Home Form](https://github.com/zelalemmoges/mini_project/blob/main/assets/form.png)
 
+<img width="1477" alt="Screenshot 2025-06-23 at 1 25 01 PM" src="https://github.com/user-attachments/assets/cac52601-b501-4b2f-8d52-0e4461a7e615" />
 
 
 ---
