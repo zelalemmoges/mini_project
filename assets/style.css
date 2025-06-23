@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h2, h4 {
+  color: #2c3e50;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
